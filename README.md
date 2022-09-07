@@ -1,4 +1,4 @@
-## Steps to join The GDSC IET DAVV org in Github
+## Steps to join The GDSC IET-DAVV org in Github
 1. Go to the [Invite me Repo](https://github.com/GDSC-IETDAVV/Invite-Me)
 2. Click on issue tab.
     - Create new issue.

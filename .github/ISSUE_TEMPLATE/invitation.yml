@@ -20,8 +20,8 @@ body:
   - type: textarea
     id: Additional
     attributes:
-      label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
+      label: Why whould to join GDSC IET-DAVV
+      description: What do you like about this community?
     validations:
       required: true
   - type: markdown
